@@ -1,0 +1,2 @@
+# Trust-Building-and-Flat-Management-System_OOP2-C-Sharp_Project
+ The "Trust Building and Flat Management System" is an innovative and inclusive platform created to completely transform flat purchasing and selling procedure. This method was created by the business confidence to improve efficiency, transparency, and confidence in real estate transactions. Although this project was done by me to help my friends xD.
